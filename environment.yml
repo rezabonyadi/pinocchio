@@ -1,0 +1,26 @@
+name: pinocchio
+dependencies:
+    - python==3.7
+    - matplotlib==3.2.2    
+    - numpy
+    - scipy
+    - pytorch::pytorch 
+    - pytorch::torchvision 
+    - conda-forge::ffmpeg
+    - conda-forge::dlib
+    - pip:
+        - tensorflow
+        - tensorflow-gpu
+        - umap-learn
+        - pytube
+        - opencv-python
+        - face-alignment
+        - face-recognition
+        
+
+
+    
+
+
+  
+
